@@ -1,16 +1,5 @@
-# calllog
+# Flutter Project 
 
-A new Flutter project.
+## Call Log Access App 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Description: Build a Flutter app that allows users to access and view their call log. Retrieve and display the call history, including details such as caller's name, phone number, call duration, and timestamp. Implement a user interface that enables easy navigation and interaction with the call log data. Ensure the app handles permissions appropriately and adheres to best practices for accessing call log information on mobile devices.
